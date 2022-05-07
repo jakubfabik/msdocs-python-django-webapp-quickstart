@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/86a0317e-7cdf-4a77-aa53-550a4128f83d/resourceGroups/cloud-shell-storage-westeurope/providers/Microsoft.Web/sites/jakubPython",
+    "appService.deploySubpath": "."
+}
