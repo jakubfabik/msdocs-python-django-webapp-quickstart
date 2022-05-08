@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/admin/Downloads/msdocs-python-django-webapp-quickstart/.venv"
+VIRTUAL_ENV="/Volumes/DATA/python/msdocs-python-django-webapp-quickstart/.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

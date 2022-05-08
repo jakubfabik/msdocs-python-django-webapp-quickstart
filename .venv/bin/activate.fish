@@ -29,7 +29,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/admin/Downloads/msdocs-python-django-webapp-quickstart/.venv"
+set -gx VIRTUAL_ENV "/Volumes/DATA/python/msdocs-python-django-webapp-quickstart/.venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
