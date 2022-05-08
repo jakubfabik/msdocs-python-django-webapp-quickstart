@@ -20,3 +20,8 @@ def hello(request):
             return render(request, 'hello_azure/hello.html', context)
     else:
         return redirect('index')
+
+@csrf_exempt
+def moje(request):
+    if request.method == 'POST':
+        return render(request, 'hello_azure/moje.html')
